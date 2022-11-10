@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0281bca0461cde8409c43f83ec7d7344, type: 3}
+  m_Name: Skateboard
+  m_EditorClassIdentifier: 
+  _description: 
+  _id: 0
+  _prefab: {fileID: 8136664515532592551, guid: 5242d601541f52542bfa5d88b1e15db8, type: 3}

@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f78192cec1344d83a177ac5e6139ab3, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  TotalMessagesSubmitted: 0
+  TotalMessagesFailed: 0
+  DesignMessagesSubmitted: 0
+  DesignMessagesFailed: 0
+  QualityMessagesSubmitted: 0
+  QualityMessagesFailed: 0
+  ErrorMessagesSubmitted: 0
+  ErrorMessagesFailed: 0
+  BusinessMessagesSubmitted: 0
+  BusinessMessagesFailed: 0
+  UserMessagesSubmitted: 0
+  UserMessagesFailed: 0
+  CustomArea: 
+  gameKey:
+  - 7f2281da0d2f804661124b353642dba9
+  secretKey:
+  - f138b3dd6335f612ee867c0927a0c4f3e5f84500
+  Build:
+  - 0.1.9
+  SelectedPlatformOrganization:
+  - 
+  SelectedPlatformStudio:
+  - 
+  SelectedPlatformGame:
+  - 
+  SelectedPlatformGameID: ffffffff
+  SelectedOrganization: 00000000
+  SelectedStudio: 00000000
+  SelectedGame: 00000000
+  NewVersion: 7.3.14
+  Changes: '7.3.14
+
+    - small fix
+
+
+    7.3.13
+
+    - fixed crash for android builds
+
+
+    7.3.12
+
+    -
+    removed imei identifiers and other alternative identifiers from user identifier
+    logic (android)
+
+
+    7.3.11
+
+    - updated dependency to external dependency
+    resolver
+
+
+    7.3.10
+
+    - adding missing .meta file for upm release
+
+    -
+    switched to using openupm for scoped registry when using upm, please update the
+    upm setup for the unity sdk
+
+
+    7.3.9
+
+    - fixed upm package.json
+
+
+    7.3.8
+
+    -
+    fixed upm dependecy
+
+
+    7.3.7
+
+    - added depedencies.xml for upm release
+
+
+    7.3.6
+
+    -
+    fixed playmaker bugs
+
+
+    7.3.5
+
+    - changed settings to have FPS events turned
+    off by default
+
+
+    7.3.4
+
+    - added error events to be sent for invalid custom
+    event fields used
+
+    - added optional mergeFields argument to event methods
+    to merge with global custom fields instead of overwrite them'
+  SignUpOpen: 1
+  StudioName: HCGames
+  GameName: Bubble Painter
+  OrganizationName: 
+  OrganizationIdentifier: 
+  EmailGA: 
+  IntroScreen: 0
+  InfoLogEditor: 1
+  InfoLogBuild: 1
+  VerboseLogBuild: 0
+  UseManualSessionHandling: 0
+  SendExampleGameDataToMyGame: 0
+  UseIMEI: 0
+  InternetConnectivity: 0
+  CustomDimensions01: []
+  CustomDimensions02: []
+  CustomDimensions03: []
+  ResourceItemTypes: []
+  ResourceCurrencies: []
+  LastCreatedGamePlatform: 0
+  Platforms: 0b000000
+  CurrentInspectorState: 1
+  ClosedHints: 
+  DisplayHints: 0
+  DisplayHintsScrollState: {x: 0, y: 0}
+  Logo: {fileID: 0}
+  UpdateIcon: {fileID: 0}
+  InfoIcon: {fileID: 0}
+  DeleteIcon: {fileID: 0}
+  GameIcon: {fileID: 0}
+  HomeIcon: {fileID: 0}
+  InstrumentIcon: {fileID: 0}
+  QuestionIcon: {fileID: 0}
+  UserIcon: {fileID: 0}
+  AmazonIcon: {fileID: 0}
+  GooglePlayIcon: {fileID: 0}
+  iosIcon: {fileID: 0}
+  macIcon: {fileID: 0}
+  windowsPhoneIcon: {fileID: 0}
+  UsePlayerSettingsBuildNumber: 0
+  SubmitErrors: 1
+  NativeErrorReporting: 0
+  MaxErrorCount: 10
+  SubmitFpsAverage: 1
+  SubmitFpsCritical: 1
+  IncludeGooglePlay: 1
+  FpsCriticalThreshold: 20
+  FpsCirticalSubmitInterval: 1
+  PlatformFoldOut: 01
+  CustomDimensions01FoldOut: 0
+  CustomDimensions02FoldOut: 0
+  CustomDimensions03FoldOut: 0
+  ResourceItemTypesFoldOut: 0
+  ResourceCurrenciesFoldOut: 0

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b572bbc41a2cc704d8546bc07ad79d1b, type: 3}
+  m_Name: AppsSettings
+  m_EditorClassIdentifier: 
+  integrateFacebook: 1
+  appLabels: Bubble Painter
+  appFacebookID: 246256634328589
+  clientTokens: 
+  integrateFirebase: 1
+  integrateIronSource: 0
+  autoInterstitial: 1
+  showInterstitialEvery: 60
+  integrateAds:
+    useBanner: 1
+    useRewardedVideo: 1
+    useInterstitial: 1
+  androidKey: Entry Android Key
+  iosKey: Entry IOS Key
+  ironSourceBannerPosition: 2
+  integrateGameAnalytics: 1

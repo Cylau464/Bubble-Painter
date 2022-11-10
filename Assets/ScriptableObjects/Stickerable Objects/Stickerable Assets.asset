@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 322b0e67ef7013141b63d1a9270a7bb9, type: 3}
+  m_Name: Stickerable Assets
+  m_EditorClassIdentifier: 
+  _description: 
+  _stickerableObjects:
+  - {fileID: 11400000, guid: 444459633fd98e642a9a694b19ed16a2, type: 2}
+  - {fileID: 11400000, guid: f04eef24dd5bfc944b6f733e4c239fdb, type: 2}
+  _stickerableData: {fileID: 11400000, guid: cf747ed2d4627444c94d81bdca96de03, type: 2}
+  _maxStickersOnObject: 5

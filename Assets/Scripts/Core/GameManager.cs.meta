@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 18b86a8fbc9a0cb43b71288d9fd5c470
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _levelsManager: {instanceID: 0}
+  - _mainCanvasManager: {instanceID: 0}
+  - _controllerInputs: {instanceID: 0}
+  - _gameData: {fileID: 11400000, guid: 5eb45a0860d60404790a0479becfdc48, type: 2}
+  - _settings: {fileID: 11400000, guid: c3652d37b5dc5154fa9a27ff5e973894, type: 2}
+  - _eventsManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

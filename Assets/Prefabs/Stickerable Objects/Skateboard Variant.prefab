@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &142594387152547248
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -502255117449335388, guid: dc7da757a0efe3e4f9c3a7cb6dcf6207, type: 3}
+      propertyPath: _sizeMult
+      value: 0.896
+      objectReference: {fileID: 0}
+    - target: {fileID: 3519924556065298183, guid: dc7da757a0efe3e4f9c3a7cb6dcf6207, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3519924556065298183, guid: dc7da757a0efe3e4f9c3a7cb6dcf6207, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 3519924556065298183, guid: dc7da757a0efe3e4f9c3a7cb6dcf6207, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7408474382815242272, guid: dc7da757a0efe3e4f9c3a7cb6dcf6207, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7408474382815242272, guid: dc7da757a0efe3e4f9c3a7cb6dcf6207, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5e11cbc1625fb9143ba5ca481a59d025, type: 2}
+    - target: {fileID: 7408474382815242272, guid: dc7da757a0efe3e4f9c3a7cb6dcf6207, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5e11cbc1625fb9143ba5ca481a59d025, type: 2}
+    - target: {fileID: 8147475250224412695, guid: dc7da757a0efe3e4f9c3a7cb6dcf6207, type: 3}
+      propertyPath: _stickerSize
+      value: 7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8546456533495927631, guid: dc7da757a0efe3e4f9c3a7cb6dcf6207, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8546456533495927631, guid: dc7da757a0efe3e4f9c3a7cb6dcf6207, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -56.775
+      objectReference: {fileID: 0}
+    - target: {fileID: 8546456533495927631, guid: dc7da757a0efe3e4f9c3a7cb6dcf6207, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 24.478
+      objectReference: {fileID: 0}
+    - target: {fileID: 8546456533495927631, guid: dc7da757a0efe3e4f9c3a7cb6dcf6207, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 3.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 9065970639070235125, guid: dc7da757a0efe3e4f9c3a7cb6dcf6207, type: 3}
+      propertyPath: m_Name
+      value: Skateboard Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: dc7da757a0efe3e4f9c3a7cb6dcf6207, type: 3}
